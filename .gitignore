@@ -1,0 +1,9 @@
+kernel/out/
+*.ko
+*.ko.xz
+*.o
+*.mod
+*.mod.c
+.*.cmd
+Module.symvers
+modules.order
